@@ -32,7 +32,9 @@ dmtome입니다.
 ## 소스코드 삽입하기
 
 1. 한 줄 소스코드
-`System.Out.println("Hello world!");
+`
+System.Out.println("Hello world!");
+`
 
 2. 여러 줄 소스코드
 ```JAVA...
